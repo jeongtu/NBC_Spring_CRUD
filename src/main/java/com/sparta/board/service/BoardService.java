@@ -1,12 +1,12 @@
-package com.sparta.boardjwt1.service;
+package com.sparta.board.service;
 
 
-import com.sparta.boardjwt1.dto.BoardRequestDto;
-import com.sparta.boardjwt1.dto.BoardResponseDto;
-import com.sparta.boardjwt1.dto.DtoBase;
-import com.sparta.boardjwt1.dto.ResultDto;
-import com.sparta.boardjwt1.entity.Board;
-import com.sparta.boardjwt1.repository.BoardRepository;
+import com.sparta.board.dto.BoardRequestDto;
+import com.sparta.board.dto.BoardResponseDto;
+import com.sparta.board.dto.DtoBase;
+import com.sparta.board.dto.ResultDto;
+import com.sparta.board.entity.Board;
+import com.sparta.board.repository.BoardRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

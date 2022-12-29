@@ -1,4 +1,4 @@
-package com.sparta.boardjwt1.dto;
+package com.sparta.board.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,9 +1,9 @@
-package com.sparta.boardjwt1.controller;
+package com.sparta.board.controller;
 
-import com.sparta.boardjwt1.dto.BoardRequestDto;
-import com.sparta.boardjwt1.dto.BoardResponseDto;
-import com.sparta.boardjwt1.dto.DtoBase;
-import com.sparta.boardjwt1.service.BoardService;
+import com.sparta.board.dto.BoardRequestDto;
+import com.sparta.board.dto.BoardResponseDto;
+import com.sparta.board.dto.DtoBase;
+import com.sparta.board.service.BoardService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

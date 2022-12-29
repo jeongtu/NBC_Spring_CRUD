@@ -1,6 +1,6 @@
-package com.sparta.boardjwt1.repository;
+package com.sparta.board.repository;
 
-import com.sparta.boardjwt1.entity.Board;
+import com.sparta.board.entity.Board;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

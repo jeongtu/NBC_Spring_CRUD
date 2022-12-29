@@ -1,6 +1,6 @@
-package com.sparta.boardjwt1.entity;
+package com.sparta.board.entity;
 
-import com.sparta.boardjwt1.dto.BoardRequestDto;
+import com.sparta.board.dto.BoardRequestDto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
